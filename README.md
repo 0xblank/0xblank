@@ -38,6 +38,6 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xblank&show_icons=true&theme=dark&hide=contribs&count_private=true" align="left"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xblank&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xblank&show_icons=true&theme=dark&hide=contribs&count_private=true" align="left" width="56%"/>
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xblank&layout=compact&theme=dark" />
 </a>
