@@ -23,16 +23,16 @@
   <a href="">
     <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=Flask&logoColor=white&color=black">
   </a>
-  <a href="">
+  <a href="https://app.hackthebox.com/users/530646">
     <img src="https://img.shields.io/badge/Pentest-Hack_The_Box-informational?style=flat&logo=hackthebox&logoColor=white&color=black">
   </a>
-  <a href="">
+  <a href="https://www.codingame.com/profile/bf5dcaabbbb2336b87641c13acccd0bc9765053">
     <img src="https://img.shields.io/badge/Training-CodeinGame-informational?style=flat&logo=CodinGame&logoColor=white&color=black">
   </a>
-  <a href="">
+  <a href="https://tryhackme.com/p/knalb">
     <img src="https://img.shields.io/badge/Training-TryHackMe-informational?style=flat&logo=tryhackme&logoColor=white&color=black">
   </a>
-  <a href="">
+  <a href="https://floppy.sh/">
     <img src="https://img.shields.io/badge/my_site-flop.py-informational?style=flat&logo=PyScaffold&logoColor=white&color=black">
   </a>
 </p>
