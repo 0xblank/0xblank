@@ -1,5 +1,5 @@
 <h2 align="center">
-  Welcome to 0xblank's Github! 👋
+  Welcome to my Github profile! 👋
 </h2>
 <p align="center">
   <a href="">
