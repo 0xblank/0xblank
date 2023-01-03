@@ -39,7 +39,8 @@
     <img src="https://img.shields.io/badge/my_site-flop.py-informational?style=flat&logo=PyScaffold&logoColor=white&color=black">
   </a>
 </p>
-
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=0xblank&show_icons=true&theme=dark&count_private=true"/>
 </a>
+</p>
