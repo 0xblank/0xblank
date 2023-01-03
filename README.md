@@ -23,6 +23,9 @@
   <a href="">
     <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=Flask&logoColor=white&color=black">
   </a>
+  <a href="https://www.root-me.org/0xblank">
+    <img src="https://img.shields.io/badge/challenges-rootme-informational?style=flat&logo=Hackaday&logoColor=white&color=black">
+  </a>
   <a href="https://app.hackthebox.com/users/530646">
     <img src="https://img.shields.io/badge/Pentest-Hack_The_Box-informational?style=flat&logo=hackthebox&logoColor=white&color=black">
   </a>
